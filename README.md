@@ -4,7 +4,7 @@
 
 | Contest | Date | High risk | Medium risk | Findings |
 |:--:|:--:|:--:|:--:|:--:|
-| [FrankenCoin](https://code4rena.com/reports/2023-04-frankencoin) | 2023-04 | 0 | 1 | [Source](https://github.com/Proxy1967/Security-Review-Findings/blob/main/Code4rena/Frankencoin.md) |
+| [Frankencoin](https://code4rena.com/reports/2023-04-frankencoin) | 2023-04 | 0 | 1 | [Source](https://github.com/Proxy1967/Security-Review-Findings/blob/main/Code4rena/Frankencoin.md) |
 
 # Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=25 height=25>
 
