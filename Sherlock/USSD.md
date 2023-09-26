@@ -1,6 +1,6 @@
 # [H-01] Not using slippage parameter or deadline while swapping on UniswapV3
 
-**Selected for report**
+- **Selected for report**
 
 ## Summary
 
@@ -154,7 +154,7 @@ Not properly initiated oracle address will result in returning 0 price from [`ge
 
 Manual Review
 
-# Recommendation
+## Recommendation
 
 Initiate the oracle address properly.
 
