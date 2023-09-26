@@ -8,12 +8,12 @@
 
 # Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=25 height=25>
 
-| Contest | High risk | Medium risk | Security report |
-|:--:|:--:|:--:|:--:|
-| - | - | - | - |
+| Contest | Date |High risk | Medium risk | Security report |
+|:--:|:--:|:--:|:--:|:--:|
+| Footium | 2023-04 | 0 | 1 | - |
 
 # CodeHawks <img src="https://pbs.twimg.com/profile_images/1700276087320657920/TCQQve6f_400x400.jpg" width=25 height=25>
 
-| Contest | High risk | Medium risk | Security report |
-|:--:|:--:|:--:|:--:|
-| - | - | - | - |
+| Contest | Date | High risk | Medium risk | Security report |
+|:--:|:--:|:--:|:--:|:--:|
+| - | - | - | - | - |
