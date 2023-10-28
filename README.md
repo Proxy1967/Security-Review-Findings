@@ -5,7 +5,8 @@
 | Contest | Date | High risk | Medium risk | QA | Findings |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | [Frankencoin](https://code4rena.com/reports/2023-04-frankencoin) | 2023-04 | 0 | 1 | - | [Source](https://github.com/Proxy1967/Security-Review-Findings/blob/main/Code4rena/Frankencoin.md) |
-| [Livepeer](https://code4rena.com/contests/2023-08-livepeer-onchain-treasury-upgrade#top) | 2023-08 | - | - | Best | [Source](https://github.com/Proxy1967/Security-Review-Findings/blob/main/Code4rena/Livepeer.md) |
+| [Livepeer](https://code4rena.com/reports/2023-08-livepeer) | 2023-08 | - | - | Best | [Source](https://github.com/Proxy1967/Security-Review-Findings/blob/main/Code4rena/Livepeer.md) |
+| Ethena Labs | 2023-10 | - | - | - | - |
 | - | - | - | - | - | - |
 
 # Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=25 height=25>
