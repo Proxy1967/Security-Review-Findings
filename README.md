@@ -5,7 +5,6 @@
 | Contest Report | Date | High risk | Medium risk | QA | My findings |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | [Frankencoin](https://code4rena.com/reports/2023-04-frankencoin) | 2023-04 | 0 | 1 | - | [Source](https://github.com/Proxy1967/Security-Review-Findings/blob/main/Code4rena/Frankencoin.md) |
-| [Livepeer](https://code4rena.com/reports/2023-08-livepeer) | 2023-08 | - | - | Best | [Source](https://github.com/Proxy1967/Security-Review-Findings/blob/main/Code4rena/Livepeer.md) |
 | Ethena Labs | 2023-10 | - | - | - | - |
 | - | - | - | - | - | - |
 
@@ -17,7 +16,6 @@
 | [USSD](https://audits.sherlock.xyz/contests/82/report) | 2023-05 | 5 | 1 | [Source](https://github.com/Proxy1967/Security-Review-Findings/blob/main/Sherlock/USSD.md) |
 | [Iron Bank](https://audits.sherlock.xyz/contests/84/report) | 2023-05 | 0 | 2 | [Source](https://github.com/Proxy1967/Security-Review-Findings/blob/main/Sherlock/IronBank.md) |
 | [DODO V3](https://audits.sherlock.xyz/contests/89/report) | 2023-06 | 1 | 1 | [Source](https://github.com/Proxy1967/Security-Review-Findings/blob/main/Sherlock/DODO_V3.md) |
-| Allo V2 | 2023-09 | - | - | - |
 | - | - | - | - | - |
 
 # CodeHawks <img src="https://pbs.twimg.com/profile_images/1700276087320657920/TCQQve6f_400x400.jpg" width=25 height=25>
